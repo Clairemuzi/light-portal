@@ -10,3 +10,11 @@
 
 4.充電完畢！讓這個光支持你的一天～
 
+
+
+## 技術說明
+
+- 純HTML/CSS/JavaScript實作
+- 使用Google Fonts載入Noto Sans TC字體
+- CSS漸層背景和按鈕效果
+- JavaScript隨機數產生器
