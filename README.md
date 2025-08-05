@@ -1,0 +1,37 @@
+# 光的入口 - 心情卡抽卡器
+
+
+
+## 使用方法
+
+1.深呼吸淨空一下思緒
+
+2.當你準備好了，點擊「💜 光的入口」按鈕
+
+3.讓文字與圖片烙印在腦中，輕輕閉上眼睛感受它的弦律
+
+4.充電完畢！讓這個光支持你的一天～
+
+## 檔案結構
+
+```
+├── index.html      # 主要HTML檔案
+├── style.css       # CSS樣式檔案
+├── script.js       # JavaScript功能檔案
+└── README.md       # 專案說明檔案
+```
+
+
+
+## 技術說明
+
+- 純HTML/CSS/JavaScript實作
+- 使用Google Fonts載入Noto Sans TC字體
+- CSS漸層背景和按鈕效果
+- JavaScript隨機數產生器
+
+
+
+## 版權所有 Lumiere Claire
+
+
